@@ -3,7 +3,7 @@ import HisaabKitaab from "./pages/HisaabKitaab";
 import Reminders from "./pages/Reminders";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Habits from "./pages/Habits";
-import Sidebar from "./components/Sidebar";
+import Sidebar from "./Components/Sidebar";
 
 import Dashboard from "./pages/Dashboard";
 import Tasks from "./pages/Tasks";
