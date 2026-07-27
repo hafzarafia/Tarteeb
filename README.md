@@ -1,16 +1,72 @@
-# React + Vite
+# 🌿 Tarteeb AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Tarteeb AI is an AI-powered personal productivity assistant designed to help students and individuals organize their daily life, manage tasks, track habits, plan studies, and monitor expenses.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+(Add your Vercel URL here)
 
-## React Compiler
+## 💡 Problem It Solves
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Many students and young professionals struggle with managing tasks, maintaining habits, planning studies, and tracking personal expenses. Tarteeb AI combines these needs into one simple productivity application.
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✅ Task Management
+- ✅ Habit Tracking
+- ✅ Reminder Management
+- ✅ Expense Tracking (Hisaab Kitaab)
+- ✅ AI Study Planner
+- ✅ Saathi AI Personal Assistant
+- ✅ Data persistence using browser local storage
+
+## 🤖 AI Feature
+
+### Saathi AI Assistant
+
+Saathi is an AI-powered personal assistant inside Tarteeb AI.
+
+It helps users:
+- Organize tasks
+- Plan daily activities
+- Provide study guidance
+- Give productivity advice
+
+AI Model Used:
+- Google Gemini API
+
+System Instruction:
+
+"You are Saathi, an intelligent personal assistant inside Tarteeb AI. Reply warmly, give practical advice, and help users organize their tasks, habits, studies, money, and daily planning."
+
+## 🛠️ Technologies Used
+
+- React.js
+- Vite
+- Tailwind CSS
+- JavaScript
+- Google Gemini API
+- GitHub
+- Vercel
+
+## 📸 Screenshots
+
+(Add screenshots of your application here)
+
+## ▶️ Run Locally
+
+Clone the repository:
+
+git clone https://github.com/hafzarafia/Tarteeb.git
+
+Install dependencies:
+
+npm install
+
+Start development server:
+
+npm run dev
+
+## 👩‍💻 Developer
+
+Created by Hafza Rafia
