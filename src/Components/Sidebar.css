@@ -1,0 +1,39 @@
+.sidebar {
+  width: 260px;
+  min-height: 100vh;
+  background: #0f6b4f;
+  color: white;
+  padding: 25px;
+}
+
+.sidebar h2 {
+  font-size: 28px;
+  margin-bottom: 8px;
+}
+
+.tagline {
+  color: #f5e6c8;
+  margin-bottom: 35px;
+  font-size: 14px;
+}
+
+.sidebar nav {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.menu-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.menu-item:hover {
+  background: #d9b65d;
+  color: #123;
+}
