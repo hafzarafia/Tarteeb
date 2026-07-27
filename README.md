@@ -4,7 +4,7 @@ Tarteeb AI is an AI-powered personal productivity assistant designed to help stu
 
 ## 🚀 Live Demo
 
-(Add your Vercel URL here)
+(https://tarteeb-chi.vercel.app/)
 
 ## 💡 Problem It Solves
 
@@ -49,9 +49,6 @@ System Instruction:
 - GitHub
 - Vercel
 
-## 📸 Screenshots
-
-(Add screenshots of your application here)
 
 ## ▶️ Run Locally
 
@@ -70,3 +67,17 @@ npm run dev
 ## 👩‍💻 Developer
 
 Created by Hafza Rafia
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](public/screenshots/dashboard.png)
+
+### Hisaab Kitaab
+![Hisaab Kitaab](public/screenshots/hisaab.png)
+
+### Saathi AI
+![Saathi AI](public/screenshots/saathi.png)
+
+## 🚀 Live Demo
+
+https://tarteeb-chi.vercel.app/
